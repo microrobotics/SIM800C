@@ -7,4 +7,5 @@ This GSM/GPRS development board is based on SIM800C chip supporting bluetooth fu
 <h2>Additional Info</h2>
 <ul>
   <li>https://www.bizkit.ru/en/2019/02/05/13553/</li>
+  <li>https://simcom.ee/documents/?dir=SIM800x</li>
 </ul>
